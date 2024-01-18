@@ -145,11 +145,6 @@ We are taking notes under
 `meetings -> meeting_consortium_240119 -> meeting_consortium_240119.docx`
 
 ---
-template: inverse
-
-# The Work Packages
-
----
 
 ## The Consortium
 
@@ -164,16 +159,67 @@ template: inverse
 9. CIN: Cinematronic ApS - DK
 
 ---
-.header[The Work Packages]
+template: inverse
 
-## Overview
+# The Work Packages
 
-TODO: image
+
 
 ---
 .header[The Work Packages]
 
-## WP1 Coordination and Management 
+## Overview
+
+---
+.center[<img src="./img/work_progress_01.png" alt="work_progress_01" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_02.png" alt="work_progress_02" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_03.png" alt="work_progress_03" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_04.png" alt="work_progress_04" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_05.png" alt="work_progress_05" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_06.png" alt="work_progress_06" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_07.png" alt="work_progress_07" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_08.png" alt="work_progress_08" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_09.png" alt="work_progress_09" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_10.png" alt="work_progress_10" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_12.png" alt="work_progress_11" style="width:72%;">]
+
+---
+.center[<img src="./img/work_progress_12.png" alt="work_progress_12" style="width:72%;">]
+
+---
+template: inverse
+
+#### The Work Packages
+# Tasks
+
+
+
+---
+.header[The Work Packages]
+
+### WP1 Coordination and Management 
+
+<br >
 
 .center[<img src="./img/tasks_wp1.png" alt="tasks_wp1" style="width:100%;">]
 
@@ -181,63 +227,80 @@ TODO: image
 ---
 .header[The Work Packages]
 
-## WP2 User Group
+### WP2 User Group
+
+<br >
 
 .center[<img src="./img/tasks_wp2.png" alt="tasks_wp2" style="width:100%;">]
 
 ---
 .header[The Work Packages]
 
-## WP3 Application and Innovation Piloting
+### WP3 Application and Innovation Piloting
+
 
 .center[<img src="./img/tasks_wp3.png" alt="tasks_wp3" style="width:100%;">]
 
 ---
 .header[The Work Packages]
 
-## WP4 Cultural Economics and Innovation Strategies
+### WP4 Cultural Economics and Innovation Strategies
+
+<br >
 
 .center[<img src="./img/tasks_wp4.png" alt="tasks_wp4" style="width:100%;">]
 
 ---
 .header[The Work Packages]
 
-## WP5 Production Descriptions and Data
+### WP5 Production Descriptions and Data
+
+<br >
 
 .center[<img src="./img/tasks_wp5.png" alt="tasks_wp5" style="width:100%;">]
 
 ---
 .header[The Work Packages]
 
-## WP6 Economic and Ecological Sustainability Indicators and Feedback
+### WP6 Economic and Ecological Sustainability Indicators and Feedback
+
+<br >
 
 .center[<img src="./img/tasks_wp6.png" alt="tasks_wp6" style="width:100%;">]
 
 ---
 .header[The Work Packages]
 
-## WP7 Simulation Model 
+### WP7 Simulation Model 
+
+<br >
 
 .center[<img src="./img/tasks_wp7.png" alt="tasks_wp7" style="width:100%;">]
 
 ---
 .header[The Work Packages]
 
-## WP8 Radiance Software, Database and Feed
+### WP8 Radiance Software, Database and Feed
+
+<br >
 
 .center[<img src="./img/tasks_wp8.png" alt="tasks_wp8" style="width:100%;">]
 
 ---
 .header[The Work Packages]
 
-## WP9 Formal Evaluation 
+### WP9 Formal Evaluation 
+
+<br >
 
 .center[<img src="./img/tasks_wp9.png" alt="tasks_wp9" style="width:100%;">]
 
 ---
 .header[The Work Packages]
 
-## WP10 Brand Building, Dissemination, Exploitation and Communication
+### WP10 Brand Building, Dissemination, Exploitation and Communication
+
+<br >
 
 .center[<img src="./img/tasks_wp10.png" alt="tasks_wp10" style="width:100%;">]
 
@@ -246,26 +309,51 @@ TODO: image
 ---
 .header[The Consortium]
 
-# Hopefuls
+## Hopefuls
 
 --
-* [THEPACK](https://thepack.studio/), Belgium
+*Pilots and User Group:*  
+  
+--
+  
+* [THEPACK](https://thepack.studio/), Belgium  
 
 --
 * [GLUCK](https://glukmedia.com/), Lithuania
 
 --
-* TBA: Production company, ideally southern or eastern Europe
-
+* TBA: Production company, ideally southern or eastern Europe  
+  
 --
   
-<br >
+*Dissemination and Cultural Economics:*  
 
 * [Baltic Film & Creative Tech Cluster](https://film-creative.tech/)
 
+  
 --
+  
+*User Group:*  
+
 * [FILMEU](https://www.filmeu.eu/alliance/about-us) / LUCA School of Arts, Belgium
 
+---
+template:inverse
+
+# Overview EC Submission Platform
+
+---
+template:inverse
+
+# Overview Overview Finances
+
+---
+template:inverse
+
+# The Next Steps
+
+---
+## The Next Steps
 
 
 
