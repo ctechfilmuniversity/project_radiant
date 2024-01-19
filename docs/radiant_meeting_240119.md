@@ -355,7 +355,115 @@ template:inverse
 ---
 ## The Next Steps
 
+---
+## The Next Steps
 
+1. Finances
+
+--
+2. Meetings
+
+--
+3. Text Work
+
+---
+.header[The Next Steps]
+
+## Meetings
+
+* Which additional meetings / sub-group meetings do we need?
+
+--
+    * WP7 Simulation Model & WP8 Radiance Software, Database and Feed?
+
+--
+    * WP3 Application and Innovation Piloting?
+
+---
+.header[The Next Steps]
+
+## Text Work
+
+--
+
+1. Excellence
+2. Impact 
+3. Quality and efficiency of the implementation
+
+---
+.header[The Next Steps]
+
+## Text Work
+
+1. Excellence - **18 Pages**
+2. Impact  - **9 Pages**
+3. Quality and efficiency of the implementation   - **19 Pages**
+
+---
+.header[The Next Steps]
+
+## Text Work
+
+1. Excellence  
+    **1.1. Objectives and ambition**  
+    **1.2. Methodology**  
+2. Impact
+3. Quality and efficiency of the implementation
+
+---
+.header[The Next Steps]
+
+## Text Work
+
+1. Excellence  
+2. Impact  
+    **2.1	Project’s pathways towards impact**  
+    **2.2	Measures to maximise impact - Dissemination, exploitation and communication**  
+    **2.3 Summary**  
+3. Quality and efficiency of the implementation
+
+---
+.header[The Next Steps]
+
+## Text Work
+
+1. Excellence  
+2. Impact    
+3. Quality and efficiency of the implementation  
+**    3.1	Work plan and resources  
+    3.2	Capacity of participants and consortium as a whole  
+    3.1a  List of work packages  
+    3.1b  Work package description  
+    3.1c  List of Deliverables  
+    3.1d  List of milestones  
+    3.1e  Critical risks for implementation  **
+
+---
+.header[The Next Steps]
+
+## Text Work
+
+[03_radiant_tables.xlsx -> TEXT WORK](https://owncloud.gwdg.de/index.php/apps/onlyoffice/2719704274?filePath=%2F01_project%2Fmovietwin%2Fhorizon_application_radiant%2F03_radiant_tables.xlsx)
+
+
+???
+.task[COMMENT:]  
+
+* Each section should have multiple partners
+
+--
+
+* Work packages, methodology: 26.01.
+
+--
+
+* Objectives and ambition, impact: 02.02.
+--
+
+> All files will be locked on Feb. 2!
+
+--
+* Possible iterations: 3.-5.2.
 
 ---
 template: inverse
