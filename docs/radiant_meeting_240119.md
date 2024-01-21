@@ -355,9 +355,6 @@ template:inverse
 ---
 ## The Next Steps
 
----
-## The Next Steps
-
 1. Finances
 
 --
